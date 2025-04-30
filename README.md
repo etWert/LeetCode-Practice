@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/etWert/LeetCode-Practice/tree/master/0605-can-place-flowers) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/etWert/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/etWert/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/etWert/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
