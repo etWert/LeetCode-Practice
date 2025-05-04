@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/etWert/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/etWert/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/etWert/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/etWert/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/etWert/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/etWert/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
