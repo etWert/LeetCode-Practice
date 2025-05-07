@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/etWert/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/etWert/LeetCode-Practice/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/etWert/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/etWert/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/etWert/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/etWert/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
