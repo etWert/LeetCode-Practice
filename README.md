@@ -82,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/etWert/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/etWert/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/etWert/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
